@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "947260581918",
+    "firebase_url": "https://wallsman-a145c.firebaseio.com",
+    "project_id": "wallsman-a145c",
+    "storage_bucket": "wallsman-a145c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947260581918:android:7bdcbeabc7000b46dce60f",
+        "android_client_info": {
+          "package_name": "com.surrok.wallsman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947260581918-lujbl594taeoj2avctuksvbca7pvnr5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqiXtiRcy4bVKMcXXHTuEdPoOHnuhCQoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947260581918-lujbl594taeoj2avctuksvbca7pvnr5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
